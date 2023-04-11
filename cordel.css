@@ -63,9 +63,9 @@ a:hover {
 }
 .imagem {
     background-color: rgba(0, 0, 0, 0.91);
-    color: white;
+    color: rgb(246, 242, 242);
     text-shadow: 1px 1px 0px;
-
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.76);
     background: fixed;
 
 }
