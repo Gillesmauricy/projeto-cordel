@@ -65,7 +65,7 @@ a:hover {
     background-color: rgba(0, 0, 0, 0.91);
     color: white;
     text-shadow: 1px 1px 0px;
-    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.76);
+
     background: fixed;
 
 }
@@ -78,5 +78,5 @@ footer {
  p {
     background-color: rgba(0, 0, 0, 0.634);
     display: inline-block;
-    padding: 5px;
+    
  }
